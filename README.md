@@ -7,3 +7,5 @@ Algorithms: <br>
 3. Gradient Descent Algorithm
 4. BFS
 5. DFS
+6. Linear Regression
+7. Logistic Regression
